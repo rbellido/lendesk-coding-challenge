@@ -33,7 +33,8 @@ I'll get to that soon.
 The following is a rough design notes of the main classes. This is by no means a formal documentation itself. 
 This is only an outline of the classes I want to create -- such as the dependencies, concrete classes, data objects, interfaces, etc.
 I do this to help me plan how each classes interact with one another. It also helps me clarify my thinking on the requirements. 
-Are there any unclear requirements? Can I make some reasonable assumptions? (See Questions & Assumptions section below)
+Are there any unclear requirements? Can I make some reasonable assumptions? (See Questions & Assumptions section below).
+I also do research in to libraries or any built-in PHP functions that may help me.
 
 ```
 app/
